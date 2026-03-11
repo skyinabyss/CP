@@ -63,23 +63,23 @@ long long lcm(long long a, long long b)
 
 * **Tính chia hết**
     -  Lưu ý sử dụng tính chất của phép mod đối với phép trừ (hay áp dụng vào prefix sum) như sau
-    $$
+    ```math
     \begin{cases}
     a \bmod m = r \\
     b \bmod m = r
     \end{cases}
     \Rightarrow (a-b) \bmod m = 0
-    $$
+    ```
 
     - Lưu ý sử dụng tính chất của phép mod đối với phép cộng (áp dụng cho tìm cặp số)
-    $$
+    ```math
     \begin{cases}
     a \bmod m = r_1 \\
     b \bmod m = r_2 \\
     r_1 + r_2 = m
     \end{cases}
     \Rightarrow (a + b) \bmod m = 0
-    $$
+    ```
 
     - List bài
         + https://lqdoj.edu.vn/problem/cses1662
