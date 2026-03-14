@@ -2,10 +2,9 @@
 ## 1. Prefix sum + mảng đánh dấu
 * **trick cộng và tick**
     - lưu ý khi nào cộng trước, khi nào tick trước
-    - lưu ý khi nào dùng map khi nao dùng mảng để đánh dấu
+    - lưu ý khi nào dùng map khi nào dùng mảng để đánh dấu
     - list bài
         + https://lqdoj.edu.vn/problem/cppb2p112
-        + https://lqdoj.edu.vn/problem/cntpair01
         + https://lqdoj.edu.vn/problem/cntpair0sum
         + https://lqdoj.edu.vn/problem/cpair
         + ...
@@ -28,7 +27,7 @@ void era(int n) // có thể sàng lên tới 1e7;
 	for (int i=1;i*i<=n;i++)
 	{
 		if (snt[i]) continue;
-		for (int j=2*i;j<=n;j+=i) snt[j] = 1;
+		for (int j=i*i;j<=n;j+=i) snt[j] = 1;
 	}
 }
 
