@@ -144,7 +144,6 @@ int main()
     - Lưu ý kỹ điều kiện dừng và điều kiện vô lý cũng như là cách gọi nó như đã đề cập trên form code
     - List bài
         + https://lqdoj.edu.vn/problem/moverd
-        + https://lqdoj.edu.vn/problem/moverd
         + https://lqdoj.edu.vn/problem/knapsack1
         + https://lqdoj.edu.vn/problem/nktick
         + ...
