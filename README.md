@@ -10,7 +10,8 @@
         + ...
 * **trick kiểm tra số lượng trong một đoạn**
     - lưu ý biến đổi phần tử cần đếm thành giá trị có nghĩa và các phần từ còn lại thành không có nghĩa.
-    - lưu ý giới hạn giá trị của phần tử mảng
+    - lưu ý giới hạn giá trị của phần tử mảng.
+    - lưu ý dùng đánh dấu mảng cộng dồn thì $cnt[0] = 1$
     - list bài
         + https://lqdoj.edu.vn/problem/24hsg9dna3
         + https://lqdoj.edu.vn/problem/countchar
