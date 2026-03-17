@@ -83,7 +83,6 @@ long long lcm(long long a, long long b)
 
     - List bài
         + https://lqdoj.edu.vn/problem/cses1662
-        + https://lqdoj.edu.vn/problem/divpairs
         + ...
 
 ## 3. Chặt nhị phân
