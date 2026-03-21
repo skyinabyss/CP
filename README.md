@@ -143,8 +143,9 @@ int main()
     - Lưu ý, các bài quy hoạch động gần như rất khó để cày trâu, nên khó quá thì dành thời gian cho các bài còn lại.
     - Lưu ý kỹ điều kiện dừng và điều kiện vô lý cũng như là cách gọi nó như đã đề cập trên form code
     - List bài
+      	+ https://lqdoj.edu.vn/problem/stonefrog1
+      	+ https://lqdoj.edu.vn/problem/knapsack1
         + https://lqdoj.edu.vn/problem/moverd
-        + https://lqdoj.edu.vn/problem/knapsack1
         + https://lqdoj.edu.vn/problem/nktick
         + ...
 
