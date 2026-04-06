@@ -111,6 +111,7 @@ while (l<=r)
         + https://lqdoj.edu.vn/problem/nthclonehv
         + https://lqdoj.edu.vn/problem/twopointeriic
 
+
 ## 4. Quy hoạch động
 * **Form code**
 ```cpp
@@ -227,4 +228,46 @@ long long get(int l, int r)
         + https://lqdoj.edu.vn/problem/cses1732
         + ...
 
-
+## 100. Luyện tư duy 
+1. **Đề tuyển sinh LQĐ các năm gần đây (2021-2025)**
+    - List bài:
+        + https://lqdoj.edu.vn/problem/25ts10lqdb3
+        + https://lqdoj.edu.vn/problem/21ts10dna2
+        + https://lqdoj.edu.vn/problem/21ts10dna3
+        + https://lqdoj.edu.vn/problem/25ts10lqdb1
+        + https://lqdoj.edu.vn/problem/21ts10dna4
+        + https://lqdoj.edu.vn/problem/25ts10lqdb2
+        + https://lqdoj.edu.vn/problem/24ts10dna2
+        + ...
+2. **Chặt nhị phân + prefix sum/mảng đánh dấu/toán**
+    - List bài:
+        + https://lqdoj.edu.vn/problem/ksum
+		+ https://lqdoj.edu.vn/problem/ndivi
+		+ https://lqdoj.edu.vn/problem/candyboxes
+        + https://lqdoj.edu.vn/problem/partition3
+        + https://lqdoj.edu.vn/problem/21thtska3
+		+ https://lqdoj.edu.vn/problem/tht24bngbbc4
+		+ https://lqdoj.edu.vn/problem/25ts10dth4
+		+ https://lqdoj.edu.vn/problem/24tht255a2
+		+ https://lqdoj.edu.vn/problem/bnhan
+        + https://lqdoj.edu.vn/problem/sumconset
+        + https://lqdoj.edu.vn/problem/findingk
+        + https://lqdoj.edu.vn/problem/skydef
+        + https://lqdoj.edu.vn/problem/cppb2p124
+    	+ ...
+3. **chặt nhị phân + quy hoạch động/segment tree/hash**
+    - List bài:
+        + https://lqdoj.edu.vn/problem/trauanco
+        + https://lqdoj.edu.vn/problem/23ththnc2
+        + https://lqdoj.edu.vn/problem/cses1749
+        + https://lqdoj.edu.vn/problem/cses1143
+        + https://lqdoj.edu.vn/problem/cses1111
+        + https://lqdoj.edu.vn/problem/23ts10dna2
+        + ...
+4. **Hỗn hợp nhiều thuật**
+    - List bài:
+        + https://lqdoj.edu.vn/problem/cses2420
+        + https://lqdoj.edu.vn/problem/cses2106
+        + https://lqdoj.edu.vn/problem/pun
+        + https://lqdoj.edu.vn/problem/cses1145
+        + ...
