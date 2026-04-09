@@ -250,6 +250,7 @@ long long get(int l, int r)
 		+ https://lqdoj.edu.vn/problem/25ts10dth4
 		+ https://lqdoj.edu.vn/problem/24tht255a2
 		+ https://lqdoj.edu.vn/problem/bnhan
+    	+ https://lqdoj.edu.vn/problem/numorder 
         + https://lqdoj.edu.vn/problem/sumconset
         + https://lqdoj.edu.vn/problem/findingk
         + https://lqdoj.edu.vn/problem/skydef
@@ -262,6 +263,7 @@ long long get(int l, int r)
         + https://lqdoj.edu.vn/problem/cses1749
         + https://lqdoj.edu.vn/problem/cses1143
         + https://lqdoj.edu.vn/problem/cses1111
+        + https://lqdoj.edu.vn/problem/cses1645
         + https://lqdoj.edu.vn/problem/23ts10dna2
         + ...
 4. **Hỗn hợp nhiều thuật**
