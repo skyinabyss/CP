@@ -253,7 +253,6 @@ long long get(int l, int r)
     	+ https://lqdoj.edu.vn/problem/numorder 
         + https://lqdoj.edu.vn/problem/sumconset
         + https://lqdoj.edu.vn/problem/findingk
-        + https://lqdoj.edu.vn/problem/skydef
         + https://lqdoj.edu.vn/problem/cppb2p124
     	+ ...
 3. **chặt nhị phân + quy hoạch động/segment tree/hash**
