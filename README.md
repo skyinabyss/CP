@@ -239,6 +239,11 @@ long long get(int l, int r)
         + https://lqdoj.edu.vn/problem/25ts10lqdb2
         + https://lqdoj.edu.vn/problem/24ts10dna2
       	+ https://lqdoj.edu.vn/problem/23ts10dna2
+      	+ https://lqdoj.edu.vn/problem/16ts10dna1
+      	+ https://lqdoj.edu.vn/problem/19ts10dna1
+      	+ https://lqdoj.edu.vn/problem/21ts10dna1
+      	+ https://lqdoj.edu.vn/problem/25ts10lqdb4
+      	+ https://lqdoj.edu.vn/problem/24ts10dna3
         + ...
 2. **Chặt nhị phân + prefix sum/mảng đánh dấu/toán**
     - List bài:
