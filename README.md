@@ -232,8 +232,8 @@ long long get(int l, int r)
 1. **Đề tuyển sinh LQĐ các năm gần đây (2021-2025)**
     - List bài:
       	+ https://lqdoj.edu.vn/problem/25ts10lqdb1
-        + https://lqdoj.edu.vn/problem/25ts10lqdb3
-      	+ https://lqdoj.edu.vn/problem/25ts10lqdb2
+        + https://lqdoj.edu.vn/problem/25ts10lqdb2
+      	+ https://lqdoj.edu.vn/problem/25ts10lqdb3
       	+ https://lqdoj.edu.vn/problem/25ts10lqdb4
         + https://lqdoj.edu.vn/problem/21ts10dna2
         + https://lqdoj.edu.vn/problem/21ts10dna3
